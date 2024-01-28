@@ -1,0 +1,55 @@
+body {
+  background-color: #473A8D;
+  margin: 0px;
+  padding: 0px;
+}
+.main-body {
+  margin-top: 200px;
+}
+/* buttons styles */
+.play-btn {
+  width: 60px;
+  height: 30px;
+}
+.play {
+  margin-top: auto;
+}
+
+/* quizcomponent styles */
+.question {
+  margin-top: 50px;
+}
+.options-1 {
+  margin: 15px;
+}
+.options-3 {
+  margin-top: 30px;
+}
+.main-body-2 {
+  background-color: white;
+  width: 900px;
+  height: 400px;
+  padding-top: 30px;
+  margin-top: 80px;
+  margin-left: 250px;
+}
+/* resultcomponent styles */
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+.main-body-3 {
+  width: 700px;
+  background-color: white;
+  height: 350px;
+  padding-top: 30px;
+}
+.result {
+  color:green;
+}
+.result-tag {
+  color: blue;
+}
+.flex-1 {
+  margin-top: 30px;
+}
